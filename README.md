@@ -2,4 +2,6 @@
 
 Contains all of the code for the PyCitySchools Pandas Challenge.
 
-This was fun, once I got the hang of it!
+Created and manipulated Pandas DataFrames to analyze school and standardized test data. 
+
+Utilizes reading in files, merge, count, unique, sum, mean, loc, groupby, binning, and calculations.
